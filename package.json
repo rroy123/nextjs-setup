@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "next-connect": "^0.12.1"
+  }
+}
